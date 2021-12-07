@@ -6,3 +6,4 @@ Names of editors:
 * Dr. S
 * Shuvechchha Kunwar
 * Crisina Pokhrel
+* Sandipa Lamichhane
