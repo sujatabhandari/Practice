@@ -3,7 +3,6 @@ This is a practice repository for students to try out GitHub and learn about sou
 
 Names of editors:
 
-Dr. S
+* Dr. S
 
-
-Abhigya Tamang 
+* Abhigya Tamang 
